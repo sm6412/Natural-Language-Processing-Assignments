@@ -1,0 +1,17 @@
+Samira Mantri
+HW5
+
+For my system I used the following features:
+1. POS
+2. whether the word is at the start of the sentence or not
+3. whether the word is at the end of the sentence or not
+4. whether the first character in the word is capitalized or not
+5. the previous word's: word, POS, BIO (no BIO if test.feature)
+6. the 2nd previous word's: word, POS, BIO (no BIO if test.feature)
+7. the 3rd previous word's: word, POS, BIO (no BIO if test.feature)
+8. the next word's: word, POS, BIO (no BIO if test.feature)
+9. the 2nd next word's: word, POS, BIO (no BIO if test.feature)
+10. the 3rd next word's: word, POS, BIO (no BIO if test.feature)
+11. BIO (no BIO if test.feature)
+
+The score I recieved was a 9/10. 
